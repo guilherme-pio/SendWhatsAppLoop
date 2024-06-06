@@ -1,4 +1,10 @@
-const message = "15/06 show iniciando 21:30, no outlet" // Message 
+/*
+Open WhatsApp Web on your browser and open a chat with someone
+Open Dev tools and then the Console tab
+Copy the code below, change the message variable to what you want them the receive and annoy your friends 
+*/
+
+const message = "Today is gonna be the day that they're gonna throw it back to you" // Message will be sent on WhatsApp Web
 const every = 3600; // Time in seconds
 
 function sendMessage(message) {
