@@ -1,7 +1,7 @@
 /*
 Open WhatsApp Web on your browser and open a chat with someone
 Open Dev tools and then the Console tab
-Copy the code below, change the message variable to what you want them the receive and annoy your friends 
+Copy the code below, change the message variable to what you want them to receive and annoy your friends 
 */
 
 const message = "Today is gonna be the day that they're gonna throw it back to you" // Message will be sent on WhatsApp Web
